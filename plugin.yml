@@ -1,0 +1,10 @@
+name: DamageModifier
+main: plugin.Molean.DamageModifier.Main
+version: '1.0'
+author: [Molean,Lowrie]
+commands:
+  dm:
+    permission: damageModifier.admin
+permissions:
+  damageModifier.admin:
+    default: op
