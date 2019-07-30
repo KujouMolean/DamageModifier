@@ -146,6 +146,6 @@ public class CommandExec implements CommandExecutor {
 		    s.sendMessage("§3/dm set <damageType> [extra|multiply|percentage] <index> §7- §7设置某种伤害值");
 	}
 	private void forHelp(CommandSender s) {
-		s.sendMessage("§6未知命令,输入 §3dm §6查询帮助");
+		s.sendMessage("§6未知命令,输入 §3/dm §6查询帮助");
 	}
 }
