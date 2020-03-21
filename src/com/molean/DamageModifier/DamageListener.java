@@ -1,4 +1,4 @@
-package plugin.Molean.DamageModifier;
+package com.molean.DamageModifier;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.LivingEntity;
